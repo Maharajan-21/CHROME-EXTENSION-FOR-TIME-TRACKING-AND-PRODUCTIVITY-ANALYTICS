@@ -12,5 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-## 
+## A Chrome Extension for tracking time spent on websites and analyzing productivity using a Node.js backend and dashboard analytics.
+
+# Output
 
